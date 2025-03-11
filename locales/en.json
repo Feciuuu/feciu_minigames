@@ -1,0 +1,15 @@
+{
+    "get_ready": "Get ready...",
+    "beat_instruction": "Click the buttons to the rhythm",
+    "catch_instruction": "Controls",
+    "code_instruction": "Guess the safe code",
+    "math_instruction": "Choose the correct answer",
+    "memorize_instruction": "Remember the shapes and their colors",
+    "memorize_instruction_2": "Enter the color of this shape",
+    "memorize_placeholder": "Enter the color...",
+    "word_instruction": "Remember the words and choose the options",
+    "word_seen": "Seen",
+    "word_new": "New",
+    "you_lose": "You lose",
+    "you_won": "You won!"
+}

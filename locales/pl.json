@@ -1,0 +1,15 @@
+{
+    "get_ready": "Przygotuj sie...",
+    "beat_instruction": "Klikaj przyciski w rytm",
+    "catch_instruction": "Sterowanie",
+    "code_instruction": "Zgadnij kod do sejfu",
+    "math_instruction": "Wybierz poprawną odpowiedź",
+    "memorize_instruction": "Zapamiętaj figury i ich kolory",
+    "memorize_instruction_2": "Wpisz kolor tej figury",
+    "memorize_placeholder": "Wpisz kolor...",
+    "word_instruction": "Zapamiętaj słowa i wybierz opcje",
+    "word_seen": "Było",
+    "word_new": "Nowe",
+    "you_lose": "Nie udało ci się",
+    "you_won": "Udało ci się!"
+}
